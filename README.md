@@ -46,16 +46,16 @@
 
 | **General Stats** | **Most Used Languages** |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=juanmiguelaasg&show_icons=true&theme=dracula&count_private=true) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanmiguelaasg&layout=compact&theme=dracula) |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=juanmiguelaasg&show_icons=true&theme=gotham&count_private=true) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanmiguelaasg&layout=compact&theme=gotham) |
 
 | **Contribution Streak** | **Profile Summary** |
 | :--- | :--- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelaasg&theme=dracula) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmiguelaasg&theme=dracula) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelaasg&theme=gotham) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmiguelaasg&theme=gotham) |
 
 ---
 
 ### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juanmiguelaasg&theme=dracula)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juanmiguelaasg&theme=gotham)
 ---
 
 ### 🕹️ Off the Clock / Gaming
